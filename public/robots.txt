@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://your-domain.pages.dev/sitemap.xml
+Sitemap: https://588584.xyz/sitemap.xml
